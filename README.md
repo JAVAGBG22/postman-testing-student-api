@@ -47,8 +47,7 @@ något id eller inte i vår request body.
 Exempel:
 
 {
-
-    "id": **"kopiera id från din databas och klistra in här"**,
+    "id": **"kopiera id från din databas och klistra in här"**
    "name": "Exempel UPPDATERAD", <--- ändra något tex lägg till text
     "email": "exempel@klarr.se", 
     "department": { 
